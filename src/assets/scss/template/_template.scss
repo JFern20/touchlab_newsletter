@@ -1,0 +1,58 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+
+.body {
+  background: #f3f3f3 !important;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+
+.future-text{
+ text-align: left;
+ font-size: 14px;
+}
+
+.h4-text{
+font-size: 22px;
+font-family: 'Lato','Helvetica Neue',Helvetica,Arial,sans-serif;
+letter-spacing: normal;
+font-weight: bold;
+text-align: center;
+line-height: 150%;
+letter-spacing: normal;
+
+}
+
+.button{
+ display: block;
+ font-size: 16px;
+ background: #E4E416;
+ background-color: #E4E416;
+ color: #090800;
+ text-decoration: none;
+ border-radius: 150px;
+ text-align: center;
+ width: 90px;
+ font-weight: bold;
+ line-height: 100%;
+ padding: 18px 28px;
+ font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+}
+
+
+
+
+
+
+
+
+
+
+
