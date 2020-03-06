@@ -16,7 +16,7 @@
 // 1. Global
 // ---------
 
-$primary-color: #2199e8;
+$primary-color: #E4E416;
 $secondary-color: #777777;
 $success-color: #3adb76;
 $warning-color: #ffae00;
@@ -24,7 +24,7 @@ $alert-color: #ec5840;
 $light-gray: #f3f3f3;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
-$black: #0a0a0a;
+$black: #090800;
 $white: #fefefe;
 $pre-color: #ff6908;
 $global-width: 580px;
@@ -55,7 +55,7 @@ $block-grid-gutter: $global-gutter;
 // -------------
 
 $global-font-color: $black;
-$body-font-family: roboto,helvetica neue,helvetica,arial, sans-serif;
+$body-font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 $global-font-weight: normal;
 $header-color: inherit;
 $global-line-height: 1.3;
@@ -68,7 +68,7 @@ $h2-font-size: 30px;
 $h3-font-size: 28px;
 $h4-font-size: 24px;
 $h5-font-size: 20px;
-$h6-font-size: 18px;
+$h6-font-size: 16px;
 $header-margin-bottom: 10px;
 $paragraph-margin-bottom: 10px;
 $small-font-size: 80%;
@@ -97,7 +97,7 @@ $stat-font-size: 40px;
 $button-padding: (
   tiny: 4px 8px 4px 8px,
   small: 5px 10px 5px 10px,
-  default: 8px 16px 8px 16px,
+  default: 18px 18px 18px 18px,
   large: 10px 20px 10px 20px,
 );
 $button-font-size: (
@@ -106,11 +106,11 @@ $button-font-size: (
   default: 16px,
   large: 20px,
 );
-$button-color: $white;
-$button-color-alt: $medium-gray;
+$button-color: #090800;
+$button-color-alt: #090800;
 $button-font-weight: bold;
 $button-margin: 0 0 $global-margin 0;
-$button-background: $primary-color;
+$button-background: #E4E416;
 $button-border: 2px solid $button-background;
 $button-radius: $global-radius;
 $button-rounded: $global-rounded;
